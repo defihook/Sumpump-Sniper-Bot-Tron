@@ -2,7 +2,7 @@
 
 ![sunpump](https://github.com/user-attachments/assets/a3327faf-c2c2-4bab-ac1b-383ea1673911)
 
-This bot is designed to help you snipe and trade newly launched or migrated tokens in sunPump on the TRON blockchain. It includes functionalities like automated token tracking, newly launched token sniping, effortless trading, telegram integration, and secure data management.
+This trading bot is designed to help you snipe and trade newly launched or migrated tokens in sunPump on the TRON blockchain. It includes functionalities like automated token tracking, newly launched token sniping, effortless trading, telegram integration, and secure data management.
 
 - [Live link](https://t.me/sunpump_tron_sniper_bot)
 
